@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "minLauncherVersion": "0.1.0",
+  "apps": [
+    {
+      "id": "desk",
+      "name": "Daedyx Desk",
+      "description": "Mail, Kalender und Aufgaben",
+      "license": "",
+      "author": "Daedyx",
+      "registryKey": "Daedyx Desk",
+      "releases": [
+        {
+          "version": "0.5.0",
+          "date": "2026-11-17",
+          "notes": "Kalender, Whiteboard aus Desk entfernt, Update über den Launcher",
+          "packages": {
+            "windows-x64": {
+              "url": "https://github.com/daedyx/releases/releases/download/desk-v0.5.0/Daedyx.Desk_0.5.0_x64-setup.exe",
+              "sha256": "48e754b982aec2977af386f3417a276bcbbe79c9e414f1ad45f06b71cb32433c",
+              "size": 6082989,
+              "kind": "nsis-silent"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
