@@ -24,6 +24,28 @@
           }
         }
       ]
+    },
+    {
+      "id": "launcher",
+      "name": "Daedyx Launcher",
+      "description": "Apps der Daedyx-Suite installieren und aktualisieren",
+      "license": "",
+      "author": "Daedyx",
+      "releases": [
+        {
+          "version": "0.1.0",
+          "date": "2026-11-18",
+          "notes": "Erste Version des Daedyx Launchers",
+          "packages": {
+            "windows-x64": {
+              "url": "https://github.com/daedyx/releases/releases/download/launcher-v0.1.0/Daedyx-Launcher_0.1.0_x64-setup.exe",
+              "sha256": "719be5d4946ac978b2a3ff89561dda2225e3572e58a758568ab9cf79d5f7415d",
+              "size": 7061898,
+              "kind": "nsis-silent"
+            }
+          }
+        }
+      ]
     }
   ]
 }
