@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "Kalender, Whiteboard aus Desk entfernt, Update über den Launcher",
-  "pub_date": "2026-11-17T00:00:00Z",
+  "version": "0.5.1",
+  "notes": "Kalender: Sortieren per Ziehen, Rechtsklick-Menüs, lokale Kalender umbenennen und löschen",
+  "pub_date": "2026-11-18T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCtSQVpHVkpnblZLamlteUZCMmJQNVNhM2dkS1ZFTkh3UTRwSm5KM1pocUhnR0ZQbm5yNS92aUlXNk03bDFOOHhNV1hKNSswcG5VVGR2eHBJZWpjQUtmbXRxbFlZSFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTUxMzk1CWZpbGU6RGFlZHl4IERlc2tfMC41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4wCkRKTEkzRUhHb2VjUjV4MWczL0w1TjJ4WFhMOW43c2tUTHFWVmpCTEF2cTE1d3BzWGJMM1NoQ1hKWTBoOEN1eFYyd2N1V3NacDJUMlgzWS9lMERiNERRPT0K",
-      "url": "https://github.com/daedyx/releases/releases/download/desk-v0.5.0/Daedyx.Desk_0.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCtSQVpHVkpnblRNNGZVczl6SityaS96d0hSTzJqUGFFcFlDaHFseVE4T1hxdzdHUHJOTnVyNFlieE5lL0hNa2tXRUZUUzVmcFNQM1JXS0ZXWjViT1A5b1VLQzIzV2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg5ODY3CWZpbGU6RGFlZHl4IERlc2tfMC41LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4xCndkeHhoUGptQ0tLMDBhSy8yYU0za2d6V0ZJSEdSaVFyendKcngzcWJlQXM3N3ZOVmttYVg5R1lTVzFOSzd1RHRLcTNZc3g0OW9adU5NbDk0VTZnaUJBPT0K",
+      "url": "https://github.com/daedyx/releases/releases/download/desk-v0.5.1/Daedyx.Desk_0.5.1_x64-setup.exe"
     }
   }
 }

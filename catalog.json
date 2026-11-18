@@ -22,6 +22,19 @@
               "kind": "nsis-silent"
             }
           }
+        },
+        {
+          "version": "0.5.1",
+          "date": "2026-11-18",
+          "notes": "Kalender: Sortieren per Ziehen, Rechtsklick-Menüs, lokale Kalender umbenennen und löschen",
+          "packages": {
+            "windows-x64": {
+              "url": "https://github.com/daedyx/releases/releases/download/desk-v0.5.1/Daedyx.Desk_0.5.1_x64-setup.exe",
+              "sha256": "7f2bbafe5a81ed974e9324f69a8c56d90fba25b44d8d2b69751b39b05d5d2a82",
+              "size": 6088968,
+              "kind": "nsis-silent"
+            }
+          }
         }
       ]
     },
