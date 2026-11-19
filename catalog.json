@@ -35,6 +35,19 @@
               "kind": "nsis-silent"
             }
           }
+        },
+        {
+          "version": "0.6.0",
+          "date": "2026-11-19",
+          "notes": "Neu: Aufgaben mit Listen, Fälligkeit, Priorität, Unteraufgaben, Wiederholung und Erinnerung. Jede Liste lässt sich als Board mit Abschnitten zeigen; Karten und Abschnitte werden per Ziehen verschoben. Kalender: Kalender und Gruppen per Ziehen sortieren, Rechtsklick-Menüs, lokale Kalender umbenennen und löschen. Beim ersten Start wird die Datenbank angepasst; vorher legt die App automatisch eine Sicherung an.",
+          "packages": {
+            "windows-x64": {
+              "url": "https://github.com/daedyx/releases/releases/download/desk-v0.6.0/Daedyx.Desk_0.6.0_x64-setup.exe",
+              "sha256": "dd52a31bf0937db832e12d51c5590664b0798adb8cb5717b0299b3dc8ee4c9fe",
+              "size": 6167942,
+              "kind": "nsis-silent"
+            }
+          }
         }
       ]
     },

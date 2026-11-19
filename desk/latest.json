@@ -1,11 +1,11 @@
 {
-  "version": "0.5.1",
-  "notes": "Kalender: Sortieren per Ziehen, Rechtsklick-Menüs, lokale Kalender umbenennen und löschen",
-  "pub_date": "2026-11-18T00:00:00Z",
+  "version": "0.6.0",
+  "notes": "Neu: Aufgaben mit Listen, Fälligkeit, Priorität, Unteraufgaben, Wiederholung und Erinnerung. Jede Liste lässt sich als Board mit Abschnitten zeigen; Karten und Abschnitte werden per Ziehen verschoben. Kalender: Kalender und Gruppen per Ziehen sortieren, Rechtsklick-Menüs, lokale Kalender umbenennen und löschen. Beim ersten Start wird die Datenbank angepasst; vorher legt die App automatisch eine Sicherung an.",
+  "pub_date": "2026-11-19T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCtSQVpHVkpnblRNNGZVczl6SityaS96d0hSTzJqUGFFcFlDaHFseVE4T1hxdzdHUHJOTnVyNFlieE5lL0hNa2tXRUZUUzVmcFNQM1JXS0ZXWjViT1A5b1VLQzIzV2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg5ODY3CWZpbGU6RGFlZHl4IERlc2tfMC41LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4xCndkeHhoUGptQ0tLMDBhSy8yYU0za2d6V0ZJSEdSaVFyendKcngzcWJlQXM3N3ZOVmttYVg5R1lTVzFOSzd1RHRLcTNZc3g0OW9adU5NbDk0VTZnaUJBPT0K",
-      "url": "https://github.com/daedyx/releases/releases/download/desk-v0.5.1/Daedyx.Desk_0.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCtSQVpHVkpnbmI4M1AvOFp1OTRLSHEyS256U09LbEFxN1Q2S0k4c2pQbnkyRGxCNEpaMUgvc3FkQlp3bUl0dThXNEhERCtEMjZsSTN4Y3BKakF2blRvd2dyZzUycmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA0MzM5CWZpbGU6RGFlZHl4IERlc2tfMC42LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi4wCnlIZlVCOEphVi94WVBINm1RYThqSitKV0wrbEV1TFBHemRqanBGdnBkREwra1RxcUJ4bDRkS0Z0OWIxS1ZITFlma0h2MThsQVFuRHh3UVU5QUlVN0NRPT0K",
+      "url": "https://github.com/daedyx/releases/releases/download/desk-v0.6.0/Daedyx.Desk_0.6.0_x64-setup.exe"
     }
   }
 }
